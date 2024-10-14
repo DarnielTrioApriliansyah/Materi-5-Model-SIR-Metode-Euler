@@ -1,1 +1,0 @@
-# Materi-5-Model-SIR-Metode-Euler
